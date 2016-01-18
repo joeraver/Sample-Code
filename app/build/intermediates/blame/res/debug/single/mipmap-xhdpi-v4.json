@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Projects\\Sample Code\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\joystick_bg.png",
+        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\src\\main\\res\\mipmap-xhdpi\\joystick_bg.png"
+    },
+    {
+        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\joystick_bg.png",
+        "source": "C:\\Projects\\Sample Code\\app\\src\\main\\res\\mipmap-xhdpi\\joystick_bg.png"
+    },
+    {
+        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\joystick.png",
+        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\src\\main\\res\\mipmap-xhdpi\\joystick.png"
+    },
+    {
+        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\joystick.png",
+        "source": "C:\\Projects\\Sample Code\\app\\src\\main\\res\\mipmap-xhdpi\\joystick.png"
+    }
+]

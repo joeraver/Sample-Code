@@ -1,0 +1,39 @@
+-injars 'C:\Projects\Sample Code\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Projects\Sample Code\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\SDKs\Android\build-tools\23.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'C:\Projects\Sample Code\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.dji.sdk.sample.common.DJISampleApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class dji.sdk.SDKManager.DJIAoaControllerActivity {
+    <init>();
+}
+
+-keep class dji.sdk.SDKManager.DJIGlobalService {
+    <init>();
+}
+
+-keep class com.dji.sdk.sample.common.MainActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

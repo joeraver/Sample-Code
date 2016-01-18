@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in_right.xml",
+        "source": "C:\\Projects\\Sample Code\\app\\src\\main\\res\\animator\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_in.xml",
+        "source": "C:\\Projects\\Sample Code\\app\\src\\main\\res\\animator\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_right.xml",
+        "source": "C:\\Projects\\Sample Code\\app\\src\\main\\res\\animator\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_in.xml",
+        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\src\\main\\res\\animator\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in_right.xml",
+        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\src\\main\\res\\animator\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_right.xml",
+        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\src\\main\\res\\animator\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_out.xml",
+        "source": "C:\\Projects\\Sample Code\\app\\src\\main\\res\\animator\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_out.xml",
+        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\src\\main\\res\\animator\\fade_out.xml"
+    }
+]
