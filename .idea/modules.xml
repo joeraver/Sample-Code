@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DJI-SDK-LIB/DJI-SDK-LIB.iml" filepath="$PROJECT_DIR$/DJI-SDK-LIB/DJI-SDK-LIB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sample Code.iml" filepath="$PROJECT_DIR$/Sample Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample-Code.iml" filepath="$PROJECT_DIR$/Sample-Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

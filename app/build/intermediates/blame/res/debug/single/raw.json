@@ -1,58 +1,30 @@
 [
     {
-        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dock.ogg",
-        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\dock.ogg"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/res/merged/debug/raw/iframe_960_3s.h264",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/exploded-aar/Sample-Code/DJI-SDK-LIB/unspecified/res/raw/iframe_960_3s.h264"
     },
     {
-        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\iframe_960_3s.h264",
-        "source": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\iframe_960_3s.h264"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/res/merged/debug/raw/gimbal_param_infos",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/exploded-aar/Sample-Code/DJI-SDK-LIB/unspecified/res/raw/gimbal_param_infos"
     },
     {
-        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\iframe_1280_3s.h264",
-        "source": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\iframe_1280_3s.h264"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/res/merged/debug/raw/iframe_1280_3s.h264",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/exploded-aar/Sample-Code/DJI-SDK-LIB/unspecified/res/raw/iframe_1280_3s.h264"
     },
     {
-        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gimbal_param_infos",
-        "source": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\gimbal_param_infos"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/res/merged/debug/raw/flyc_param_infos",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/exploded-aar/Sample-Code/DJI-SDK-LIB/unspecified/res/raw/flyc_param_infos"
     },
     {
-        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\effect_tick.ogg",
-        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\effect_tick.ogg"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/res/merged/debug/raw/effect_tick.ogg",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/exploded-aar/Sample-Code/DJI-SDK-LIB/unspecified/res/raw/effect_tick.ogg"
     },
     {
-        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\iframe_960_3s.h264",
-        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\iframe_960_3s.h264"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/res/merged/debug/raw/iframe_1280_ins.h264",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/exploded-aar/Sample-Code/DJI-SDK-LIB/unspecified/res/raw/iframe_1280_ins.h264"
     },
     {
-        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\effect_tick.ogg",
-        "source": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\effect_tick.ogg"
-    },
-    {
-        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\flyc_param_infos",
-        "source": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\flyc_param_infos"
-    },
-    {
-        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\iframe_1280_ins.h264",
-        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\iframe_1280_ins.h264"
-    },
-    {
-        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\iframe_1280_ins.h264",
-        "source": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\iframe_1280_ins.h264"
-    },
-    {
-        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\flyc_param_infos",
-        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\flyc_param_infos"
-    },
-    {
-        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dock.ogg",
-        "source": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\dock.ogg"
-    },
-    {
-        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\iframe_1280_3s.h264",
-        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\iframe_1280_3s.h264"
-    },
-    {
-        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gimbal_param_infos",
-        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\raw\\gimbal_param_infos"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/res/merged/debug/raw/dock.ogg",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/exploded-aar/Sample-Code/DJI-SDK-LIB/unspecified/res/raw/dock.ogg"
     }
 ]

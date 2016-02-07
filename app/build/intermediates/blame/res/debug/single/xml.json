@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\xml\\accessory_filter.xml",
-        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\xml\\accessory_filter.xml"
-    },
-    {
-        "merged": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\res\\merged\\debug\\xml\\accessory_filter.xml",
-        "source": "C:\\Projects\\Sample Code\\app\\build\\intermediates\\exploded-aar\\Sample Code\\DJI-SDK-LIB\\unspecified\\res\\xml\\accessory_filter.xml"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/res/merged/debug/xml/accessory_filter.xml",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/app/build/intermediates/exploded-aar/Sample-Code/DJI-SDK-LIB/unspecified/res/xml/accessory_filter.xml"
     }
 ]

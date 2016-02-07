@@ -1,10 +1,14 @@
 [
     {
-        "merged": "C:\\Projects\\Sample Code\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
-        "source": "C:\\Projects\\Sample Code\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/xml/accessory_filter.xml",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/DJI-SDK-LIB/build/intermediates/bundles/debug/res/xml/accessory_filter.xml"
     },
     {
-        "merged": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
-        "source": "C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/C:\\SDKs\\Mobile-SDK-Android\\Sample Code\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
+    },
+    {
+        "merged": "/Users/josephraver/AndroidStudioProjects/Sample-Code/C:\\Projects\\Sample Code\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
+        "source": "/Users/josephraver/AndroidStudioProjects/Sample-Code/C:\\Projects\\Sample Code\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
     }
 ]
